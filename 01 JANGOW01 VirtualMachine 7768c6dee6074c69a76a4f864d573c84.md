@@ -252,7 +252,7 @@
 
 ---
 
-## References | Ссылки
+## 🔗 References | Ссылки
 
 - [**Ссылка на виртуальную машину**](https://www.vulnhub.com/entry/jangow-101,754/) 
 - [**Уязвимость Dirty_COW**](https://ru.wikipedia.org/wiki/%D0%A3%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_Dirty_COW) 
@@ -262,10 +262,14 @@
 
 ---
 
-## Ссылки на мои соц сети
+## 🌐 Socials | Соц Сети:
 
-[**YouTube Channel**](https://www.youtube.com/@MrRedLik)
+[![**YouTube Channel**](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrRedLik) 
 
-[**Instagram**](https://instagram.com/andr1an0lv)
+[![**Instagram**](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andr1an0lv)
 
 [**GitHub**](https://github.com/redl1k) 
+
+
+
+
