@@ -6,7 +6,7 @@
 - [https://www.vulnhub.com/entry/jangow-101,754/](https://www.vulnhub.com/entry/jangow-101,754/)
 
 **WRITEUP by andr1an0lv**
-
+- **Date solving the machine**: 13 Aug 2023
 > **name vm: jangow01
 ip my vm: 192.168.56.118
 ip my host: 89.175.27.64**
