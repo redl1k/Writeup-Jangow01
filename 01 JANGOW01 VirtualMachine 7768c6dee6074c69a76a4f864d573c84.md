@@ -219,7 +219,7 @@ ip my host: 89.175.27.64**
 
 ладно пойдем другим путем. Есть тулза с которой по ходу решения задания познакомился. 
 ссылка на нее → [**github**](https://github.com/The-Z-Labs/linux-exploit-suggester) - вообщем это тулза ищет уязвимости в системе.
-закидываем ее через FTP сервер во дерикторию **/tmp** и запускаем, как обычный скрипт. 
+закидываем ее через FTP сервер в дерикторию **/tmp** и запускаем, как обычный скрипт. 
 Чтобы мы смогли прочитать оутпут, который программа выводит, я весь вывод перенаправил в файл, который я потом скачаю по FTP серверу. 
  ****
 
@@ -251,3 +251,23 @@ ip my host: 89.175.27.64**
 ![Untitled](01%20JANGOW01%20VirtualMachine%207768c6dee6074c69a76a4f864d573c84/Untitled%2030.png)
 
 **Победа.**
+
+---
+
+## References | Ссылки
+
+- [https://www.vulnhub.com/entry/jangow-101,754/](https://www.vulnhub.com/entry/jangow-101,754/) **- Ссылка на виртуальную машину**
+- [https://ru.wikipedia.org/wiki/Уязвимость_Dirty_COW](https://ru.wikipedia.org/wiki/%D0%A3%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_Dirty_COW) **-** **Уязвимость Dirty_COW**
+- [https://gist.github.com/scumjr/17d91f20f73157c722ba2aea702985d2](https://gist.github.com/scumjr/17d91f20f73157c722ba2aea702985d2) - **Эксплойт Dirty_COW**
+- [https://github.com/The-Z-Labs/linux-exploit-suggester.git](https://github.com/The-Z-Labs/linux-exploit-suggester.git) **- Скрипт для поиска уязвимостей в системе**
+- [https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS) **- LinPeas - всеми любимый скрипт, для поиска слабых мест в системе**
+
+---
+
+## Ссылки на мои соц сети
+
+[YouTube Channel](https://www.youtube.com/@MrRedLik) **- YouTube Channel**
+
+[Instagram](https://instagram.com/andr1an0lv) - **Instagram**
+
+[GitHub](https://github.com/redl1k) **- GitHub**
