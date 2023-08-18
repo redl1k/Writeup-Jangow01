@@ -1,16 +1,14 @@
 # 01: JANGOW01 | VirtualMachine
-
-# **JANGOW: 1.0.1**
-
-- **Date release**: 4 Nov 2021
-- [https://www.vulnhub.com/entry/jangow-101,754/](https://www.vulnhub.com/entry/jangow-101,754/)
-
-**WRITEUP by andr1an0lv**
-- **Date solving the machine**: 13 Aug 2023
-> **name vm: jangow01
-ip my vm: 192.168.56.118
-ip my host: 89.175.27.64**
-> 
+**WRITEUP by [andr1an0lv](https://github.com/redl1k)**                   
+**Date solving the VirtualMachine**: 13 Aug 2023
+---                    
+- **Date release the VirtualMachine**: 4 Nov 2021                                   
+- [**Link on VirtualMachine**](https://www.vulnhub.com/entry/jangow-101,754/)
+---
+**My credentials:**
+> **name vm: jangow01                    
+>ip vm jangow01: 192.168.56.118                
+>ip my host: 89.175.27.64**                
 
 ---
 
