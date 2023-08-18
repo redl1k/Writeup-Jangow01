@@ -256,18 +256,18 @@ ip my host: 89.175.27.64**
 
 ## References | Ссылки
 
-- [https://www.vulnhub.com/entry/jangow-101,754/](https://www.vulnhub.com/entry/jangow-101,754/) **- Ссылка на виртуальную машину**
-- [https://ru.wikipedia.org/wiki/Уязвимость_Dirty_COW](https://ru.wikipedia.org/wiki/%D0%A3%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_Dirty_COW) **-** **Уязвимость Dirty_COW**
-- [https://gist.github.com/scumjr/17d91f20f73157c722ba2aea702985d2](https://gist.github.com/scumjr/17d91f20f73157c722ba2aea702985d2) - **Эксплойт Dirty_COW**
-- [https://github.com/The-Z-Labs/linux-exploit-suggester.git](https://github.com/The-Z-Labs/linux-exploit-suggester.git) **- Скрипт для поиска уязвимостей в системе**
-- [https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS) **- LinPeas - всеми любимый скрипт, для поиска слабых мест в системе**
+- [**Ссылка на виртуальную машину**](https://www.vulnhub.com/entry/jangow-101,754/) 
+- [**Уязвимость Dirty_COW**](https://ru.wikipedia.org/wiki/%D0%A3%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_Dirty_COW) 
+- [**Эксплойт Dirty_COW**](https://gist.github.com/scumjr/17d91f20f73157c722ba2aea702985d2)
+- [**Скрипт для поиска уязвимостей в системе**(https://github.com/The-Z-Labs/linux-exploit-suggester.git) 
+- [**LinPeas - всеми любимый скрипт, для поиска слабых мест в системе**](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS) 
 
 ---
 
 ## Ссылки на мои соц сети
 
-[YouTube Channel](https://www.youtube.com/@MrRedLik) **- YouTube Channel**
+[**YouTube Channel**](https://www.youtube.com/@MrRedLik)
 
-[Instagram](https://instagram.com/andr1an0lv) - **Instagram**
+[**Instagram**](https://instagram.com/andr1an0lv)
 
-[GitHub](https://github.com/redl1k) **- GitHub**
+[**GitHub**](https://github.com/redl1k) 
